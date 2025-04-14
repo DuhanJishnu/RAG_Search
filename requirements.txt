@@ -1,0 +1,7 @@
+Flask
+Flask-CORS
+langchain-mistralai
+langchain 
+langchain-community 
+upstash-vector
+waitress
